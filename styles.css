@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(178, 243, 178);
+}
+
+#top {
+    display: flex;
+    justify-content: center;
+}
+
+}
+.section {
+    display: flex;
+    width: 500px;
+    background-color: cadetblue;
+    border-color: black;
+    margin-top: 20px;
+}
+
+.main   {
+    display: flex;
+    flex-direction: column;
+}
+
+.Sub {
+    background-color: rgb(231, 224, 224);
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+ 
+
+    
+}
+
+#image {
+    width: 500px;
+    height: 300px;
+    margin-top: 10px;
+}
